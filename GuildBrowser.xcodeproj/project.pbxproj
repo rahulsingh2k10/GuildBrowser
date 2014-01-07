@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		835F141F187BDFCE00430005 /* MapForItinerary.m in Sources */ = {isa = PBXBuildFile; fileRef = 835F141E187BDFCE00430005 /* MapForItinerary.m */; };
 		CB9FDC4015E9872D00B3713E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC3F15E9872D00B3713E /* UIKit.framework */; };
 		CB9FDC4215E9872D00B3713E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC4115E9872D00B3713E /* Foundation.framework */; };
 		CB9FDC4415E9872D00B3713E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC4315E9872D00B3713E /* CoreGraphics.framework */; };
@@ -73,6 +74,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		835F141D187BDFCE00430005 /* MapForItinerary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapForItinerary.h; sourceTree = "<group>"; };
+		835F141E187BDFCE00430005 /* MapForItinerary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapForItinerary.m; sourceTree = "<group>"; };
 		CB9FDC3B15E9872D00B3713E /* GuildBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuildBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB9FDC3F15E9872D00B3713E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CB9FDC4115E9872D00B3713E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -223,6 +226,8 @@
 				CB9FDD2B15E9B34900B3713E /* WoWUtils.m */,
 				CB9FDC4E15E9872D00B3713E /* AppDelegate.h */,
 				CB9FDC4F15E9872D00B3713E /* AppDelegate.m */,
+				835F141D187BDFCE00430005 /* MapForItinerary.h */,
+				835F141E187BDFCE00430005 /* MapForItinerary.m */,
 				CB9FDC5115E9872D00B3713E /* MainStoryboard.storyboard */,
 				CB9FDC4615E9872D00B3713E /* Supporting Files */,
 			);
@@ -504,6 +509,7 @@
 				CB9FDD2D15E9B34900B3713E /* CharacterCell.m in Sources */,
 				CB9FDD2E15E9B34900B3713E /* CharacterDetailViewController.m in Sources */,
 				CB9FDD2F15E9B34900B3713E /* CharacterViewController.m in Sources */,
+				835F141F187BDFCE00430005 /* MapForItinerary.m in Sources */,
 				CB9FDD3015E9B34900B3713E /* Guild.m in Sources */,
 				CB9FDD3115E9B34900B3713E /* HeaderView.m in Sources */,
 				CB9FDD3215E9B34900B3713E /* Item.m in Sources */,
